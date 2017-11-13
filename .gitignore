@@ -1,0 +1,6 @@
+.qmake.stash
+Makefile
+*.o
+rcsServer
+rcsServer.exe
+*.user
