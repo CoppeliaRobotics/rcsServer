@@ -49,6 +49,7 @@ macx {
 }
 
 unix:!macx {
+    LIBS += -ldl
     DEFINES += LIN_VREP
 }
 
