@@ -1,6 +1,12 @@
 .qmake.stash
 Makefile
+Makefile.Debug
+Makefile.Release
 *.o
 rcsServer
 rcsServer.exe
-*.user
+release/
+x64/
+.vs/
+*.user*
+build-*
