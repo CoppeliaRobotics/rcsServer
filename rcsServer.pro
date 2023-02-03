@@ -66,6 +66,6 @@ HEADERS += \
     ../include/socketInConnection.h
 
 SOURCES += \
-    ../common/socketInConnection.cpp \
+    ../include/socketInConnection.cpp \
     rcsServer.cpp
 
