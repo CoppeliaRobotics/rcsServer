@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <socketInConnection.h>
+#include <simLib/socketInConnection.h>
 #include <cstdlib>
 
 #ifdef _WIN32
