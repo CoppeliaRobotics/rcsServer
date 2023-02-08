@@ -11,11 +11,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\common\socketInConnection.cpp" />
+    <ClCompile Include="..\include\simLib\socketInConnection.cpp" />
     <ClCompile Include="rcsServer.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\include\socketInConnection.h" />
+    <ClInclude Include="..\include\simLib\socketInConnection.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{AA323EF5-85AB-4E28-8923-5BB45263D426}</ProjectGuid>

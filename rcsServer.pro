@@ -63,9 +63,9 @@ unix:!symbian {
 }
 
 HEADERS += \
-    ../include/socketInConnection.h
+    ../include/simLib/socketInConnection.h
 
 SOURCES += \
-    ../include/socketInConnection.cpp \
+    ../include/simLib/socketInConnection.cpp \
     rcsServer.cpp
 
