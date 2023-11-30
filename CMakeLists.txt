@@ -18,7 +18,7 @@ find_package(CoppeliaSim 4.5.1.7 REQUIRED)
 
 coppeliasim_add_executable(rcsServer
     SOURCES
-    rcsServer.cpp
+    sourceCode/rcsServer.cpp
     ${COPPELIASIM_INCLUDE_DIR}/simLib/socketInConnection.cpp
 )
 target_include_directories(rcsServer PRIVATE ${COPPELIASIM_INCLUDE_DIR})

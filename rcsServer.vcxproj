@@ -12,7 +12,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\include\simLib\socketInConnection.cpp" />
-    <ClCompile Include="rcsServer.cpp" />
+    <ClCompile Include="sourceCode/rcsServer.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\include\simLib\socketInConnection.h" />

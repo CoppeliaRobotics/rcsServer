@@ -67,5 +67,5 @@ HEADERS += \
 
 SOURCES += \
     ../include/simLib/socketInConnection.cpp \
-    rcsServer.cpp
+    sourceCode/rcsServer.cpp
 
